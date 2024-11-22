@@ -1,0 +1,3 @@
+../Core/Src/Encoder.c:10:6:encoder_init	24	static
+../Core/Src/Encoder.c:18:6:update_position	24	static
+../Core/Src/Encoder.c:34:6:update_speed	24	static

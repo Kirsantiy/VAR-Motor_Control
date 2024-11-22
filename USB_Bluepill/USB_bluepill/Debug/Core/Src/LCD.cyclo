@@ -1,0 +1,9 @@
+LCD.c:15:22:DelayMicro	2
+LCD.c:21:6:LCD_WriteByteI2CLCD	1
+LCD.c:27:6:sendhalfbyte	1
+LCD.c:37:6:sendbyte	2
+LCD.c:46:6:LCD_Clear	1
+LCD.c:52:6:LCD_SendChar	1
+LCD.c:57:6:LCD_String	2
+LCD.c:67:6:LCD_SetPos	5
+LCD.c:90:6:LCD_ini	1
